@@ -1,7 +1,26 @@
-cecho "# Test-site=" >> README.m
-git init 
-git and README.md
-git commit -m " primeiro commit" 
-git branch -M principal 
-origem de adiçao remotaa git htt git push -u origem pricipal 
+    <title>Meu Site Simples</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site Simples</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Inicial</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <h2>Sobre</h2>
+        <p>Esta é uma página de exemplo para um site simples.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Meu Site Simples</p>
+    </footer>
+</body>
+</html>
+
 
