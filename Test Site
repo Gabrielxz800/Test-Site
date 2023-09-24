@@ -1,0 +1,7 @@
+cecho "# Test-site=" >> README.m
+git init 
+git and README.md
+git commit -m " primeiro commit" 
+git branch -M principal 
+origem de adiçao remotaa git htt git push -u origem pricipal 
+
